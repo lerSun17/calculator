@@ -1,2 +1,2 @@
-# Seminars_project
-Repo for seminar lessons tasks
+# Calculator
+Calories calculator and Cash calculator
